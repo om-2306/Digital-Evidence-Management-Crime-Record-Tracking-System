@@ -1,0 +1,74 @@
+{
+  "564": {
+    "case_id": "564",
+    "crime_type": "Theft",
+    "crime_location": "Istanbul",
+    "date_of_incident": "2025-05-15",
+    "officer_assigned": "Satya",
+    "suspect_name": "siddu",
+    "investigation_status": "In Progress",
+    "priority_level": "Medium",
+    "evidence_ids": [],
+    "notes": "",
+    "created_date": "2026-05-17T01:09:22.584603",
+    "modified_date": "2026-05-17T01:09:22.584635"
+  },
+  "CASE001": {
+    "case_id": "CASE001",
+    "crime_type": "Theft",
+    "crime_location": "Downtown",
+    "date_of_incident": "2026-05-15",
+    "officer_assigned": "Officer Singh",
+    "suspect_name": "John Doe",
+    "investigation_status": "Open",
+    "priority_level": "High",
+    "evidence_ids": [
+      "EVI001"
+    ],
+    "notes": "",
+    "created_date": "2026-05-17T01:15:08.864470",
+    "modified_date": "2026-05-17T01:15:08.868031"
+  },
+  "789": {
+    "case_id": "789",
+    "crime_type": "Theft",
+    "crime_location": "Banglore",
+    "date_of_incident": "2026-05-23",
+    "officer_assigned": "Satya",
+    "suspect_name": "Siddu",
+    "investigation_status": "Closed",
+    "priority_level": "Medium",
+    "evidence_ids": [],
+    "notes": "\n[2026-05-17T01:39:35.217990] It is sloved case the Theft has been caught",
+    "created_date": "2026-05-17T01:37:31.106395",
+    "modified_date": "2026-05-17T01:39:35.218011"
+  },
+  "456": {
+    "case_id": "456",
+    "crime_type": "Murder",
+    "crime_location": "Banglore",
+    "date_of_incident": "2026-05-24",
+    "officer_assigned": "Satya",
+    "suspect_name": "Nanda",
+    "investigation_status": "In Progress",
+    "priority_level": "High",
+    "evidence_ids": [],
+    "notes": "",
+    "created_date": "2026-05-17T01:38:38.357471",
+    "modified_date": "2026-05-17T01:38:38.357489"
+  },
+  "685": {
+    "case_id": "685",
+    "crime_type": "Murder",
+    "crime_location": "Begumpet",
+    "date_of_incident": "2026-09-28",
+    "officer_assigned": "Kumar",
+    "suspect_name": "Rajesh",
+    "investigation_status": "In Progress",
+    "priority_level": "Medium",
+    "evidence_ids": [],
+    "notes": "",
+    "created_date": "2026-06-04T17:20:34.979656",
+    "modified_date": "2026-06-04T17:20:34.979691"
+  }
+}

@@ -1,0 +1,26 @@
+======================================================================
+ACTIVE INVESTIGATIONS REPORT
+======================================================================
+
+Report Generated: 2026-05-17 01:15:08
+Total Active Cases: 2
+
+----------------------------------------------------------------------
+Case ID: 564
+Crime Type: Theft | Location: Istanbul
+Officer: Satya | Suspect: siddu
+Status: In Progress | Priority: Medium
+Date of Incident: 2025-05-15
+Evidence Items: 0
+
+----------------------------------------------------------------------
+Case ID: CASE001
+Crime Type: Theft | Location: Downtown
+Officer: Officer Singh | Suspect: John Doe
+Status: Open | Priority: High
+Date of Incident: 2026-05-15
+Evidence Items: 1
+
+======================================================================
+END OF REPORT
+======================================================================

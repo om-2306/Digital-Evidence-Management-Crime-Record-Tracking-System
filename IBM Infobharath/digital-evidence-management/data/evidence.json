@@ -1,0 +1,15 @@
+{
+  "EVI001": {
+    "evidence_id": "EVI001",
+    "case_id": "CASE001",
+    "evidence_type": "Images",
+    "evidence_description": "CCTV footage showing suspect",
+    "location_stored": "Evidence Room",
+    "status": "Received",
+    "collected_date": "2026-05-17",
+    "collected_by": "Officer Singh",
+    "chain_of_custody": [],
+    "created_date": "2026-05-17T01:15:08.865816",
+    "modified_date": "2026-05-17T01:15:08.865819"
+  }
+}

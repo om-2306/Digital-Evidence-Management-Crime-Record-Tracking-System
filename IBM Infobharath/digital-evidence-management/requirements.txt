@@ -1,0 +1,8 @@
+# No external dependencies required!
+# This project uses only Python standard library modules:
+# - json (for data persistence)
+# - csv (for report generation)
+# - os (for file operations)
+# - datetime (for timestamps and date handling)
+
+# Python version: 3.7 or higher recommended
