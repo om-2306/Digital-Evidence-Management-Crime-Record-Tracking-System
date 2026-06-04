@@ -1,0 +1,2 @@
+# Digital-Evidence-Management-Crime-Record-Tracking-System
+The Digital Evidence Management System is a Python-based console application developed to manage criminal investigation cases and their associated digital evidence efficiently. The system enables law enforcement personnel to create, update, track, and manage criminal cases while maintaining evidence records and generating investigation reports.
